@@ -1,0 +1,9 @@
+{
+  "name": "pl_bronze_ingestion",
+  "pipeline_type": "ETL",
+  "catalog": "raw",
+  "schema": "transactions",
+  "continuous": false,
+  "storage": "/Volumes/raw/transactions/dlt_storage",
+  "language": "PYTHON"
+}
